@@ -1,6 +1,6 @@
 ## Project Overview
 
-A RESTful API service that validates Indian PAN (Permanent Account Number) card details along with other user information.
+A RESTful API service that validates Indian PAN card details along with other user information.
 
 This service is part of the Coditas assignment that demonstrates best practices in Go programming including:
 - RESTful API design
